@@ -1,8 +1,2 @@
-# Outlook Gen
-Outlook Generator using [anycaptcha.com]
-
-> get your captcha key at: https://anycaptcha.com?referral=11552  
-> put proxies in `./data/proxies.txt`  
-> run with : `python main.py`
-
-`creds to quoft xx`
+i don't give a shit about this solver since funcap is used on disabled people website such as roblox and twitter
+it's fucking slow and full of shit, you probably have to rewrite it better
