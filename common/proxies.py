@@ -1,0 +1,1 @@
+SOCKS5_URL_MICROSOCKS = "socks5://jew:jew@147.75.87.107:1080"
